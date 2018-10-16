@@ -3,7 +3,7 @@
 Basically What I’m sharing here is a Collection of some best resources about Penetration Testing & Reverse Engineering That I want to Share with you all.., Along with Some Blogs Links, & YouTube Channels  :) 
 
 ### Contribution
-Your contributions and suggestions are heartily welcome. Please check the [Contributing Guidelines](.github/CONTRIBUTING.md) for more details.
+Your contributions and suggestions are heartily welcome. 
 
 ## Books
 
